@@ -9,19 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "HLHistogramData.h"
 
-@class HLHistogramView;
-
-@protocol HLHistogramViewDelegate <NSObject>
-
-- (void)histogramView:(HLHistogramView *)historygramView;
-
-@end
-
 @interface HLHistogramView : UIView
-
-
-
-@property(nonatomic,assign) id<HLHistogramViewDelegate> delegate;
 
 /**
  y轴值，可适应多级柱状图，必传
