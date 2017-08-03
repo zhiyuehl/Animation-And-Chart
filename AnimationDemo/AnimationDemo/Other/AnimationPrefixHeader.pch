@@ -1,0 +1,23 @@
+//
+//  AnimationPrefixHeader.pch
+//  AnimationDemo
+//
+//  Created by tederen on 2017/7/7.
+//  Copyright © 2017年 tederen. All rights reserved.
+//
+
+#ifndef AnimationPrefixHeader_pch
+#define AnimationPrefixHeader_pch
+
+/* <<<<屏幕宽高>>>>>*/
+#define kScreen_Width  [UIScreen mainScreen].bounds.size.width
+#define kScreen_Height [UIScreen mainScreen].bounds.size.height
+
+
+/* <<<<RGB颜色值>>>>>*/
+#define RGBCOLOR(R,G,B) RGBACOLOR(R,G,B,1.0)
+#define RGBACOLOR(R,G,B,A) [UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A]
+
+
+
+#endif /* AnimationPrefixHeader_pch */
