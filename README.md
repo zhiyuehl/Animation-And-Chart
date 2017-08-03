@@ -1,12 +1,12 @@
 # Animation-And-Chart
 A collection of animation that highly custom chart (histogram, pie chart, line chart) and common view collection
 
+animation demo from [YouXianMing](https://github.com/YouXianMing/Animations)
 
-animation demo from [here](https://github.com/YouXianMing/Animations)
+FSPagerView from [FSPagerView](https://github.com/WenchaoD/FSPagerView)
 
-FSPagerView from [here](https://github.com/WenchaoD/FSPagerView)
-
-Thanks
+Thanks to two authors
+Thanks to your star
 
 # chart gif 
 
