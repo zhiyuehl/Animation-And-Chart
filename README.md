@@ -2,15 +2,21 @@
 A collection of animation that highly custom chart (histogram, pie chart, line chart) and common view collection
 
 
+animation demo from [here](https://github.com/YouXianMing/Animations)
+
+FSPagerView from [here](https://github.com/WenchaoD/FSPagerView)
+
+Thanks
+
+
 chart gif 
 ![](https://github.com/zhiyuehl/Animation-And-Chart/raw/master/QQ20170803-165718-HD.gif)  
 
 
-#chart
+#chart : highly custom chart
 *line chart 
 
-
-···
+```
 /**
  y轴值，必传
  */
@@ -112,4 +118,4 @@ chart gif
  */
 - (void)strokeStart;
 
-···
+```
