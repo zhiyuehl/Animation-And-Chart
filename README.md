@@ -1,19 +1,20 @@
 # Animation-And-Chart
-A collection of animation that highly custom chart (histogram, pie chart, line chart) and common view collection
 
-animation demo from [YouXianMing](https://github.com/YouXianMing/Animations)
+A collection of animation, highly custom chart (histogram, pie chart, line chart) and common view collection，Continuously updated.
+
+Animation demo from [YouXianMing](https://github.com/YouXianMing/Animations) [poping]()
 
 FSPagerView from [FSPagerView](https://github.com/WenchaoD/FSPagerView)
 
-Thanks to two authors
-Thanks to your star
+Thanks to two authors.
+Thanks to your star.
 
 # chart gif 
 
 ![](https://github.com/zhiyuehl/Animation-And-Chart/raw/master/QQ20170803-165718-HD.gif)  
 
 
-# chart : highly custom chart
+# chart : highly custom chart, if there is some bug, please inform me，thanks
 
 ## line chart 
 ```
