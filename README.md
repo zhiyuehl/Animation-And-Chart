@@ -8,14 +8,14 @@ FSPagerView from [here](https://github.com/WenchaoD/FSPagerView)
 
 Thanks
 
+# chart gif 
 
-#chart gif 
 ![](https://github.com/zhiyuehl/Animation-And-Chart/raw/master/QQ20170803-165718-HD.gif)  
 
 
-#chart : highly custom chart
+# chart : highly custom chart
 
-##line chart 
+## line chart 
 ```
 /**
  y轴值，必传
@@ -120,7 +120,7 @@ Thanks
 
 ```
 
-##bar chart 
+## bar chart 
 ```
 /**
  y轴值，可适应多级柱状图，必传
@@ -203,7 +203,7 @@ Thanks
 - (void)strokeStart;
 ```
 
-##pie chart
+## pie chart
 ```
 typedef NS_ENUM(NSUInteger, HLPieLengendPosition) {
     HLPieLengendPositionTop,
