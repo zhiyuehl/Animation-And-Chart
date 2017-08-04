@@ -77,14 +77,14 @@
 		C7867D491F32D2B30087A2F7 /* DJRecommendView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7867D481F32D2B30087A2F7 /* DJRecommendView.m */; };
 		C791334A1F31D47300CAAB1D /* HLSectionScrollPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = C79133491F31D47300CAAB1D /* HLSectionScrollPageView.m */; };
 		C791334D1F31D4A800CAAB1D /* SectionScrollPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C791334C1F31D4A800CAAB1D /* SectionScrollPageViewController.m */; };
-		C7A830541F33316700575765 /* HLHistogramData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830451F33316700575765 /* HLHistogramData.m */; };
-		C7A830551F33316700575765 /* HLHistogramView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830471F33316700575765 /* HLHistogramView.m */; };
-		C7A830561F33316700575765 /* HLLineChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830491F33316700575765 /* HLLineChartData.m */; };
-		C7A830571F33316700575765 /* HLLineChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8304B1F33316700575765 /* HLLineChartView.m */; };
-		C7A830581F33316700575765 /* HLPieChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8304D1F33316700575765 /* HLPieChartData.m */; };
-		C7A830591F33316700575765 /* HLPieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8304F1F33316700575765 /* HLPieChartView.m */; };
-		C7A8305A1F33316700575765 /* HLPieLengendView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830511F33316700575765 /* HLPieLengendView.m */; };
-		C7A8305B1F33316700575765 /* UIView+SetRect.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830531F33316700575765 /* UIView+SetRect.m */; };
+		C7A8306D1F33327E00575765 /* HLHistogramData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8305E1F33327E00575765 /* HLHistogramData.m */; };
+		C7A8306E1F33327E00575765 /* HLHistogramView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830601F33327E00575765 /* HLHistogramView.m */; };
+		C7A8306F1F33327E00575765 /* HLLineChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830621F33327E00575765 /* HLLineChartData.m */; };
+		C7A830701F33327E00575765 /* HLLineChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830641F33327E00575765 /* HLLineChartView.m */; };
+		C7A830711F33327E00575765 /* HLPieChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830661F33327E00575765 /* HLPieChartData.m */; };
+		C7A830721F33327E00575765 /* HLPieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A830681F33327E00575765 /* HLPieChartView.m */; };
+		C7A830731F33327E00575765 /* HLPieLengendView.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8306A1F33327E00575765 /* HLPieLengendView.m */; };
+		C7A830741F33327E00575765 /* UIView+SetRect.m in Sources */ = {isa = PBXBuildFile; fileRef = C7A8306C1F33327E00575765 /* UIView+SetRect.m */; };
 		C7BC22CB1F15B8F000A10506 /* BlurImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7BC22CA1F15B8F000A10506 /* BlurImageViewController.m */; };
 		C7BC22CE1F15B93D00A10506 /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = C7BC22CD1F15B93D00A10506 /* UIImage+ImageEffects.m */; };
 		C7CD4E4B1F14838E00BE5E13 /* ShakeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7CD4E481F14838E00BE5E13 /* ShakeViewController.m */; };
@@ -243,22 +243,22 @@
 		C79133491F31D47300CAAB1D /* HLSectionScrollPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLSectionScrollPageView.m; sourceTree = "<group>"; };
 		C791334B1F31D4A800CAAB1D /* SectionScrollPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SectionScrollPageViewController.h; sourceTree = "<group>"; };
 		C791334C1F31D4A800CAAB1D /* SectionScrollPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SectionScrollPageViewController.m; sourceTree = "<group>"; };
-		C7A830441F33316700575765 /* HLHistogramData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLHistogramData.h; sourceTree = "<group>"; };
-		C7A830451F33316700575765 /* HLHistogramData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLHistogramData.m; sourceTree = "<group>"; };
-		C7A830461F33316700575765 /* HLHistogramView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLHistogramView.h; sourceTree = "<group>"; };
-		C7A830471F33316700575765 /* HLHistogramView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLHistogramView.m; sourceTree = "<group>"; };
-		C7A830481F33316700575765 /* HLLineChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLLineChartData.h; sourceTree = "<group>"; };
-		C7A830491F33316700575765 /* HLLineChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLLineChartData.m; sourceTree = "<group>"; };
-		C7A8304A1F33316700575765 /* HLLineChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLLineChartView.h; sourceTree = "<group>"; };
-		C7A8304B1F33316700575765 /* HLLineChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLLineChartView.m; sourceTree = "<group>"; };
-		C7A8304C1F33316700575765 /* HLPieChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieChartData.h; sourceTree = "<group>"; };
-		C7A8304D1F33316700575765 /* HLPieChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieChartData.m; sourceTree = "<group>"; };
-		C7A8304E1F33316700575765 /* HLPieChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieChartView.h; sourceTree = "<group>"; };
-		C7A8304F1F33316700575765 /* HLPieChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieChartView.m; sourceTree = "<group>"; };
-		C7A830501F33316700575765 /* HLPieLengendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieLengendView.h; sourceTree = "<group>"; };
-		C7A830511F33316700575765 /* HLPieLengendView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieLengendView.m; sourceTree = "<group>"; };
-		C7A830521F33316700575765 /* UIView+SetRect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SetRect.h"; sourceTree = "<group>"; };
-		C7A830531F33316700575765 /* UIView+SetRect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SetRect.m"; sourceTree = "<group>"; };
+		C7A8305D1F33327E00575765 /* HLHistogramData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLHistogramData.h; sourceTree = "<group>"; };
+		C7A8305E1F33327E00575765 /* HLHistogramData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLHistogramData.m; sourceTree = "<group>"; };
+		C7A8305F1F33327E00575765 /* HLHistogramView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLHistogramView.h; sourceTree = "<group>"; };
+		C7A830601F33327E00575765 /* HLHistogramView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLHistogramView.m; sourceTree = "<group>"; };
+		C7A830611F33327E00575765 /* HLLineChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLLineChartData.h; sourceTree = "<group>"; };
+		C7A830621F33327E00575765 /* HLLineChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLLineChartData.m; sourceTree = "<group>"; };
+		C7A830631F33327E00575765 /* HLLineChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLLineChartView.h; sourceTree = "<group>"; };
+		C7A830641F33327E00575765 /* HLLineChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLLineChartView.m; sourceTree = "<group>"; };
+		C7A830651F33327E00575765 /* HLPieChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieChartData.h; sourceTree = "<group>"; };
+		C7A830661F33327E00575765 /* HLPieChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieChartData.m; sourceTree = "<group>"; };
+		C7A830671F33327E00575765 /* HLPieChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieChartView.h; sourceTree = "<group>"; };
+		C7A830681F33327E00575765 /* HLPieChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieChartView.m; sourceTree = "<group>"; };
+		C7A830691F33327E00575765 /* HLPieLengendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPieLengendView.h; sourceTree = "<group>"; };
+		C7A8306A1F33327E00575765 /* HLPieLengendView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLPieLengendView.m; sourceTree = "<group>"; };
+		C7A8306B1F33327E00575765 /* UIView+SetRect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SetRect.h"; sourceTree = "<group>"; };
+		C7A8306C1F33327E00575765 /* UIView+SetRect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SetRect.m"; sourceTree = "<group>"; };
 		C7BC22C91F15B8F000A10506 /* BlurImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlurImageViewController.h; sourceTree = "<group>"; };
 		C7BC22CA1F15B8F000A10506 /* BlurImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlurImageViewController.m; sourceTree = "<group>"; };
 		C7BC22CC1F15B93D00A10506 /* UIImage+ImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageEffects.h"; sourceTree = "<group>"; };
@@ -317,7 +317,7 @@
 		C727FF271F0DEC1E00276DED = {
 			isa = PBXGroup;
 			children = (
-				C7A830431F33316700575765 /* HLChartView */,
+				C7A8305C1F33327E00575765 /* HLChartView */,
 				C727FF321F0DEC1E00276DED /* AnimationDemo */,
 				C727FF311F0DEC1E00276DED /* Products */,
 				A0B3E37BAF4DB7E9CECD757D /* Pods */,
@@ -681,25 +681,25 @@
 			path = "顶部滚动菜单栏";
 			sourceTree = "<group>";
 		};
-		C7A830431F33316700575765 /* HLChartView */ = {
+		C7A8305C1F33327E00575765 /* HLChartView */ = {
 			isa = PBXGroup;
 			children = (
-				C7A830441F33316700575765 /* HLHistogramData.h */,
-				C7A830451F33316700575765 /* HLHistogramData.m */,
-				C7A830461F33316700575765 /* HLHistogramView.h */,
-				C7A830471F33316700575765 /* HLHistogramView.m */,
-				C7A830481F33316700575765 /* HLLineChartData.h */,
-				C7A830491F33316700575765 /* HLLineChartData.m */,
-				C7A8304A1F33316700575765 /* HLLineChartView.h */,
-				C7A8304B1F33316700575765 /* HLLineChartView.m */,
-				C7A8304C1F33316700575765 /* HLPieChartData.h */,
-				C7A8304D1F33316700575765 /* HLPieChartData.m */,
-				C7A8304E1F33316700575765 /* HLPieChartView.h */,
-				C7A8304F1F33316700575765 /* HLPieChartView.m */,
-				C7A830501F33316700575765 /* HLPieLengendView.h */,
-				C7A830511F33316700575765 /* HLPieLengendView.m */,
-				C7A830521F33316700575765 /* UIView+SetRect.h */,
-				C7A830531F33316700575765 /* UIView+SetRect.m */,
+				C7A8305D1F33327E00575765 /* HLHistogramData.h */,
+				C7A8305E1F33327E00575765 /* HLHistogramData.m */,
+				C7A8305F1F33327E00575765 /* HLHistogramView.h */,
+				C7A830601F33327E00575765 /* HLHistogramView.m */,
+				C7A830611F33327E00575765 /* HLLineChartData.h */,
+				C7A830621F33327E00575765 /* HLLineChartData.m */,
+				C7A830631F33327E00575765 /* HLLineChartView.h */,
+				C7A830641F33327E00575765 /* HLLineChartView.m */,
+				C7A830651F33327E00575765 /* HLPieChartData.h */,
+				C7A830661F33327E00575765 /* HLPieChartData.m */,
+				C7A830671F33327E00575765 /* HLPieChartView.h */,
+				C7A830681F33327E00575765 /* HLPieChartView.m */,
+				C7A830691F33327E00575765 /* HLPieLengendView.h */,
+				C7A8306A1F33327E00575765 /* HLPieLengendView.m */,
+				C7A8306B1F33327E00575765 /* UIView+SetRect.h */,
+				C7A8306C1F33327E00575765 /* UIView+SetRect.m */,
 			);
 			path = HLChartView;
 			sourceTree = "<group>";
@@ -879,10 +879,10 @@
 				C7867D461F32C1410087A2F7 /* DJViewController.m in Sources */,
 				C756681B1F0F64C400A6BA45 /* DrawingColor.m in Sources */,
 				C756687E1F0F88B100A6BA45 /* POPNumberAnimation.m in Sources */,
-				C7A830571F33316700575765 /* HLLineChartView.m in Sources */,
+				C7A830701F33327E00575765 /* HLLineChartView.m in Sources */,
 				C756687B1F0F86DD00A6BA45 /* DigitalGradientViewController.m in Sources */,
-				C7A830581F33316700575765 /* HLPieChartData.m in Sources */,
-				C7A830551F33316700575765 /* HLHistogramView.m in Sources */,
+				C7A830711F33327E00575765 /* HLPieChartData.m in Sources */,
+				C7A8306E1F33327E00575765 /* HLHistogramView.m in Sources */,
 				C73CAD8F1F1352F500A66939 /* FBShimmeringView.m in Sources */,
 				C75668741F0F7A6D00A6BA45 /* TransformationMatrix.cpp in Sources */,
 				C7CD4E531F14849E00BE5E13 /* CardViewController.m in Sources */,
@@ -922,19 +922,19 @@
 				C72BB6151F1863BA00DDC84D /* LinerCollectionViewController.m in Sources */,
 				C72BB6311F1871DA00DDC84D /* FSPagerViewLayoutAttributes.swift in Sources */,
 				C727FF381F0DEC1E00276DED /* AppDelegate.m in Sources */,
-				C7A830561F33316700575765 /* HLLineChartData.m in Sources */,
+				C7A8306F1F33327E00575765 /* HLLineChartData.m in Sources */,
 				C756681A1F0F64C400A6BA45 /* DrawingStyle.m in Sources */,
 				C77476B31F21F76A00BE2E84 /* PieChartViewController.m in Sources */,
 				C756686E1F0F7A6D00A6BA45 /* POPGeometry.mm in Sources */,
 				C75668811F0F90A400A6BA45 /* TimeModel.m in Sources */,
 				C72BB6301F1871DA00DDC84D /* FSPagerViewCell.swift in Sources */,
-				C7A8305B1F33316700575765 /* UIView+SetRect.m in Sources */,
+				C7A830741F33327E00575765 /* UIView+SetRect.m in Sources */,
 				C727FF351F0DEC1E00276DED /* main.m in Sources */,
 				C7128C391F171BA800B88C1E /* EffectMenuButton.m in Sources */,
 				C72BB6431F18CA3600DDC84D /* CardTextModel.m in Sources */,
-				C7A8305A1F33316700575765 /* HLPieLengendView.m in Sources */,
+				C7A830731F33327E00575765 /* HLPieLengendView.m in Sources */,
 				C72BB62D1F1871DA00DDC84D /* FSPageControl.swift in Sources */,
-				C7A830541F33316700575765 /* HLHistogramData.m in Sources */,
+				C7A8306D1F33327E00575765 /* HLHistogramData.m in Sources */,
 				C75668771F0F7ACC00A6BA45 /* AnimateTableViewCell.m in Sources */,
 				C7BC22CE1F15B93D00A10506 /* UIImage+ImageEffects.m in Sources */,
 				C791334A1F31D47300CAAB1D /* HLSectionScrollPageView.m in Sources */,
@@ -944,7 +944,7 @@
 				C772B3641F19C3420045F9AF /* CardSizeModel.m in Sources */,
 				C727FF591F0E25FE00276DED /* AnimationTwoListViewController.m in Sources */,
 				C756686D1F0F7A6D00A6BA45 /* POPDecayAnimation.mm in Sources */,
-				C7A830591F33316700575765 /* HLPieChartView.m in Sources */,
+				C7A830721F33327E00575765 /* HLPieChartView.m in Sources */,
 				C7128C361F1715A300B88C1E /* EffectMenuView.m in Sources */,
 				C75663041F0F19DD00A6BA45 /* CustomNavigationBar.m in Sources */,
 				C72BB62E1F1871DA00DDC84D /* FSPagerCollectionView.swift in Sources */,
